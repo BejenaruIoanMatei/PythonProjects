@@ -1,2 +1,2 @@
 # PythonProjects
-Pentru temele la RN
+Pentru temele la RN + alte proiecte 
